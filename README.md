@@ -1,2 +1,2 @@
-# gestion-stockage
+# gestion-stock
 Stok à temps réel 
